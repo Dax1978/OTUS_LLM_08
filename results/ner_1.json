@@ -1,7 +1,7 @@
 {
   "companies": null,
-  "persons": null,
+  "date_signing": "12 марта 2026 года",
+  "validity_period": null,
   "deal_amount": null,
-  "deal_date": "12 марта 2026",
-  "location": "Москва"
+  "commitment_period": null
 }
